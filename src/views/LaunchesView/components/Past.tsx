@@ -2,7 +2,7 @@ import React, { Fragment, useState } from "react";
 
 import Box from "@mui/material/Box";
 import { DataGrid } from "@mui/x-data-grid";
-import { Chip, Grid, Link, Skeleton, Typography } from "@mui/material";
+import { Chip, Skeleton, Typography } from "@mui/material";
 import { QueryType, queryData } from "../../../query";
 import {
   CellType,

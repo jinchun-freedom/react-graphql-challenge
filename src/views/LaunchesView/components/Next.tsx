@@ -4,7 +4,6 @@ import {
   CardContent,
   Chip,
   Grid,
-  Skeleton,
   Typography,
 } from "@mui/material";
 import { QueryType, queryData } from "../../../query";
