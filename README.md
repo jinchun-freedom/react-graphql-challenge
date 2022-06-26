@@ -6,7 +6,7 @@ npm install or yarn install
 #### `dependencies`
 react,react-redux,reduxjs/toolkit,material ui
 
-#### `npm start`
+#### `npm run start`
 
 Runs the app in the development mode.\
 
